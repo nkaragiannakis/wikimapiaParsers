@@ -1,4 +1,4 @@
-package gr.athenainnovation.imis.wikimapialeecher;
+package gr.athenainnovation.imis.wikimapiabyarea;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
